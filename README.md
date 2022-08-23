@@ -17,5 +17,4 @@ Verá que algunos documentos se encuentran en un tipo de informe "más simple o 
 #### Autor
  [Carlos](https://github.com/Carlos96999)  
  
- 
  Ingeniero de sistemas y consultor de seguridad
