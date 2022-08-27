@@ -17,3 +17,4 @@ A continuación, las máquinas solucionadas:
 * Secret v1
 * SteamCloud v1
 * TimeLapse v1
+* Validation v3
